@@ -50,6 +50,7 @@ document (|
   show-title = true;
   show-toc = false;
 |) '<
+  +p{Note: Currently, SATySFi doesn't work with fonts-noto-sans:NotoSans-ExtraBold-\* fonts. You should avoid using those fonts at the moment.}
   +show-latin-font(`fonts-noto-sans:NotoSans-Black`);
   +show-latin-font(`fonts-noto-sans:NotoSans-BlackItalic`);
   +show-latin-font(`fonts-noto-sans:NotoSans-Bold`);
@@ -72,26 +73,6 @@ document (|
   +show-latin-font(`fonts-noto-sans:NotoSans-CondensedSemiBoldItalic`);
   +show-latin-font(`fonts-noto-sans:NotoSans-CondensedThin`);
   +show-latin-font(`fonts-noto-sans:NotoSans-CondensedThinItalic`);
-  +show-latin-font(`fonts-noto-sans:NotoSans-ExtraBold`);
-  +show-latin-font(`fonts-noto-sans:NotoSans-ExtraBoldItalic`);
-  +show-latin-font(`fonts-noto-sans:NotoSans-ExtraCondensed`);
-  +show-latin-font(`fonts-noto-sans:NotoSans-ExtraCondensedBlack`);
-  +show-latin-font(`fonts-noto-sans:NotoSans-ExtraCondensedBlackItalic`);
-  +show-latin-font(`fonts-noto-sans:NotoSans-ExtraCondensedBold`);
-  +show-latin-font(`fonts-noto-sans:NotoSans-ExtraCondensedBoldItalic`);
-  +show-latin-font(`fonts-noto-sans:NotoSans-ExtraCondensedExtraBold`);
-  +show-latin-font(`fonts-noto-sans:NotoSans-ExtraCondensedExtraBoldItalic`);
-  +show-latin-font(`fonts-noto-sans:NotoSans-ExtraCondensedExtraLight`);
-  +show-latin-font(`fonts-noto-sans:NotoSans-ExtraCondensedExtraLightItalic`);
-  +show-latin-font(`fonts-noto-sans:NotoSans-ExtraCondensedItalic`);
-  +show-latin-font(`fonts-noto-sans:NotoSans-ExtraCondensedLight`);
-  +show-latin-font(`fonts-noto-sans:NotoSans-ExtraCondensedLightItalic`);
-  +show-latin-font(`fonts-noto-sans:NotoSans-ExtraCondensedMedium`);
-  +show-latin-font(`fonts-noto-sans:NotoSans-ExtraCondensedMediumItalic`);
-  +show-latin-font(`fonts-noto-sans:NotoSans-ExtraCondensedSemiBold`);
-  +show-latin-font(`fonts-noto-sans:NotoSans-ExtraCondensedSemiBoldItalic`);
-  +show-latin-font(`fonts-noto-sans:NotoSans-ExtraCondensedThin`);
-  +show-latin-font(`fonts-noto-sans:NotoSans-ExtraCondensedThinItalic`);
   +show-latin-font(`fonts-noto-sans:NotoSans-ExtraLight`);
   +show-latin-font(`fonts-noto-sans:NotoSans-ExtraLightItalic`);
   +show-latin-font(`fonts-noto-sans:NotoSans-Italic`);
@@ -122,7 +103,4 @@ document (|
   +show-latin-font(`fonts-noto-sans:NotoSans-SemiCondensedThinItalic`);
   +show-latin-font(`fonts-noto-sans:NotoSans-Thin`);
   +show-latin-font(`fonts-noto-sans:NotoSans-ThinItalic`);
-  
-  
-  
 >

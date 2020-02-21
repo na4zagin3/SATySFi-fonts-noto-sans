@@ -19,6 +19,8 @@ if you get error `bash: satyrographos: command not found`, please read the [inst
 ## Installed Fonts
 This package install the following fonts.
 
+**Note**: Currently, SATySFi doesn't work with fonts-noto-sans:NotoSans-ExtraBold-\* fonts. You should avoid using those fonts at the moment.
+
 | SATySFi Font Name | Font Filename | Font Type |
 |-------------------|---------------|-----------|
 | fonts-noto-sans:NotoSans-Black | NotoSans-Black.ttf | latin |
