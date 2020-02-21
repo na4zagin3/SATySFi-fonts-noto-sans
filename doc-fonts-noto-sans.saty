@@ -50,7 +50,7 @@ document (|
   show-title = true;
   show-toc = false;
 |) '<
-  +p{Note: Currently, SATySFi doesn't work with fonts-noto-sans:NotoSans-ExtraCondensed\* and fonts-noto-sans:NotoSans-ExtraLight\* fonts. You should avoid using those fonts at the moment.}
+  +p{Note: Currently, SATySFi doesn't work with fonts-noto-sans:NotoSans-ExtraCondensed\* fonts. You should avoid using those fonts at the moment.}
   +show-latin-font(`fonts-noto-sans:NotoSans-Black`);
   +show-latin-font(`fonts-noto-sans:NotoSans-BlackItalic`);
   +show-latin-font(`fonts-noto-sans:NotoSans-Bold`);
